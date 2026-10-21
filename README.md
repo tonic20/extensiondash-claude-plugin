@@ -17,14 +17,6 @@ Run these commands inside Claude Code:
 
 Then open `/mcp`, select the ExtensionDash server, and authenticate.
 
-To inspect or try the plugin from a local checkout:
-
-```sh
-git clone https://github.com/tonic20/extensiondash-claude-plugin.git
-claude plugin validate ./extensiondash-claude-plugin
-claude --plugin-dir ./extensiondash-claude-plugin
-```
-
 ## Install in Claude web, desktop, or Cowork
 
 Where plugin upload is available, download this repository as a ZIP from
