@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "extensions-dashboard": {
+      "url": "https://extensiondash.com/mcp",
+      "type": "http"
+    }
+  }
+}

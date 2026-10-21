@@ -1,0 +1,29 @@
+{
+  "name": "extensiondash",
+  "version": "0.1.2",
+  "description": "Keyword rank tracking, extension analytics, and competitor analysis for Chrome Web Store extensions and Firefox add-ons. Review user growth, ratings, and ranking history, and manage tracked keywords and competitors.",
+  "author": {
+    "name": "ExtensionDash",
+    "url": "https://extensiondash.com/"
+  },
+  "homepage": "https://extensiondash.com/",
+  "repository": "https://github.com/tonic20/extensiondash-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://extensiondash.com/privacy",
+  "keywords": [
+    "chrome web store",
+    "firefox add-ons",
+    "browser extensions",
+    "store rankings",
+    "chrome web store ranking",
+    "chrome extension analytics",
+    "browser extension analytics",
+    "extension analytics",
+    "chrome web store seo",
+    "keyword rank tracking",
+    "keyword rankings",
+    "competitor research",
+    "competitor analysis"
+  ],
+  "displayName": "ExtensionDash: Store Rankings"
+}

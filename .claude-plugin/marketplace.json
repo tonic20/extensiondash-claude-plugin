@@ -1,0 +1,15 @@
+{
+  "name": "extensiondash",
+  "description": "ExtensionDash plugins for researching browser extensions and tracking store rankings in Claude.",
+  "owner": {
+    "name": "ExtensionDash",
+    "email": "support@extensiondash.com"
+  },
+  "plugins": [
+    {
+      "name": "extensiondash",
+      "source": "./",
+      "description": "Chrome Web Store and Firefox add-on research, keyword rankings, and competitor tracking."
+    }
+  ]
+}
