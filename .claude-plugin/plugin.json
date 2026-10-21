@@ -1,7 +1,7 @@
 {
   "name": "extensiondash",
   "version": "0.1.2",
-  "description": "Keyword rank tracking, extension analytics, and competitor analysis for Chrome Web Store extensions and Firefox add-ons. Review user growth, ratings, and ranking history, and manage tracked keywords and competitors.",
+  "description": "Chrome Web Store SEO inside Claude: check keyword rankings with the depth scanned, follow user growth and ratings, and run competitor analysis for Chrome extensions and Firefox add-ons. Catalog research works without signing in.",
   "author": {
     "name": "ExtensionDash",
     "url": "https://extensiondash.com/"

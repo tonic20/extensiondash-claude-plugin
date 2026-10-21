@@ -9,7 +9,7 @@
     {
       "name": "extensiondash",
       "source": "./",
-      "description": "Chrome Web Store and Firefox add-on research, keyword rankings, and competitor tracking."
+      "description": "Extension analytics and keyword rank tracking for the Chrome Web Store and Firefox add-ons."
     }
   ]
 }
