@@ -89,3 +89,7 @@ in `LICENSE`. Access to the hosted service is governed separately by its terms.
 - Support email: support@extensiondash.com
 - Privacy: https://extensiondash.com/privacy
 - Terms: https://extensiondash.com/terms
+
+## Author
+
+Built by [Anton Kopylov](https://www.kopylov.net). The story behind it: [ExtensionDash: Tracking an Extension From the Agent](https://www.kopylov.net/blog/extensiondash-tracking-an-extension-from-the-agent.html).
